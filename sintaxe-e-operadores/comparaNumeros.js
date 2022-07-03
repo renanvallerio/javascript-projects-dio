@@ -82,5 +82,4 @@ function validaNumero(num){
 }
 
 
-
 console.log(validaNumero());
