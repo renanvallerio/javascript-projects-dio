@@ -31,5 +31,5 @@ const body = document.getElementsByTagName('body')[0];
 const footer = document.getElementsByTagName('footer')[0];
 
 
-button.addEventListener('click', changeMode);
+button.addEventListener('do', changeMode);
 
